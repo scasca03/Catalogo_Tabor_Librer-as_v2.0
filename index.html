@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Catálogo general de TABOR Librería y Artículos Religiosos. Una selección de libros de espiritualidad, familia, testimonios y más.">
+  <meta name="theme-color" content="#143f5b">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta name="format-detection" content="telephone=yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="TABOR">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+  <link rel="manifest" href="site.webmanifest">
+  <script>
+    // Early device hints: layout still relies primarily on responsive CSS.
+    (() => {
+      const ua = navigator.userAgent || '';
+      const platform = navigator.platform || '';
+      const points = navigator.maxTouchPoints || 0;
+      const isIPad = /iPad/i.test(ua) || (platform === 'MacIntel' && points > 1);
+      const isIPhone = /iPhone|iPod/i.test(ua);
+      const isAndroid = /Android/i.test(ua);
+      const isAndroidPhone = isAndroid && /Mobile/i.test(ua);
+      const root = document.documentElement;
+      root.dataset.device = isIPad ? 'ipad' : isIPhone ? 'iphone' : isAndroidPhone ? 'android-phone' : isAndroid ? 'android-tablet' : 'desktop';
+      root.dataset.os = (isIPad || isIPhone) ? 'ios' : isAndroid ? 'android' : 'other';
+      root.dataset.touch = (points > 0 || matchMedia('(pointer: coarse)').matches) ? 'true' : 'false';
+      if (navigator.standalone === true || matchMedia('(display-mode: standalone)').matches) root.dataset.display = 'standalone';
+    })();
+  </script>
+  <link rel="stylesheet" href="styles.css">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:site_name" content="TABOR Librería">
+  <meta property="og:title" content="Catálogo General | TABOR">
+  <meta property="og:description" content="Selección de libros de TABOR. Consulta títulos y disponibilidad directamente por WhatsApp.">
+  <meta property="og:url" content="https://scasca03.github.io/Cat-logo_Tabor/">
+  <meta property="og:image" content="https://scasca03.github.io/Cat-logo_Tabor/social-preview.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Catálogo General de TABOR Librería">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Catálogo General | TABOR">
+  <meta name="twitter:description" content="Selección de libros de TABOR Librería y Artículos Religiosos.">
+  <meta name="twitter:image" content="https://scasca03.github.io/Cat-logo_Tabor/social-preview.jpg">
+  <title>Catálogo General | TABOR</title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#inicio" aria-label="TABOR - Inicio"><img src="assets/tabor-logo.png" alt="TABOR"></a>
+      <nav class="nav" aria-label="Navegación principal">
+        <a href="#catalogo">Catálogo</a>
+        <a href="#tematicas">Temáticas</a>
+        <a href="#contacto">Contacto</a>
+        <button class="btn btn-ghost header-share" id="shareCatalogBtn" type="button">Compartir</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="kicker" id="heroSubtitle">LIBRERÍA Y ARTÍCULOS RELIGIOSOS</div>
+          <h1 id="heroTitle">CATÁLOGO <strong>GENERAL</strong></h1>
+          <p class="lead">Libros para crecer, comprender, acompañar y profundizar en la fe y en la vida.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#catalogo">Explorar catálogo</a>
+            <a class="btn btn-light" id="heroWhatsapp" href="#" target="_blank" rel="noopener">Consultar por WhatsApp</a>
+          </div>
+          <div class="selection-note"><span class="note-mark">i</span><p id="selectionNote">Este catálogo recoge una selección de títulos de nuestro stock general.</p></div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="book-stack"></div>
+          <div class="hero-covers" id="heroCovers"></div>
+          <div class="hero-badge"><b id="heroBookCount">—</b><span>títulos seleccionados</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="Resumen del catálogo">
+      <div class="container stats-grid">
+        <div class="stat"><strong id="statBooks">—</strong><span>libros</span></div>
+        <div class="stat"><strong id="statCategories">—</strong><span>temáticas</span></div>
+        <div class="stat"><strong id="statUpdated">—</strong><span>última actualización</span></div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="tematicas">
+      <div class="container">
+        <div class="section-head">
+          <div><div class="kicker">Encuentra tu lectura</div><h2>Explora por temática</h2></div>
+          <p>Encuentra lecturas para la vida espiritual, la familia, la educación y el crecimiento personal.</p>
+        </div>
+        <div class="topic-grid" id="topicGrid"></div>
+      </div>
+    </section>
+
+    <section class="section catalog-section" id="catalogo">
+      <div class="catalog-tools">
+        <div class="container tools-shell">
+          <div class="tools-primary">
+            <label class="search" aria-label="Buscar libros">
+              <span class="search-icon" aria-hidden="true"></span>
+              <input id="searchInput" type="search" inputmode="search" autocomplete="off" placeholder="Buscar por título, autor, temática o palabra…">
+            </label>
+            <div class="sort-picker" id="sortPicker">
+              <span class="sort-label">Ordenar</span>
+              <button class="sort-trigger" id="sortTrigger" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortMenu">
+                <span id="sortCurrent">Orden del catálogo</span>
+                <span class="sort-chevron" aria-hidden="true"></span>
+              </button>
+              <div class="sort-menu" id="sortMenu" role="listbox" aria-label="Ordenar catálogo" hidden>
+                <button class="sort-option is-selected" type="button" role="option" aria-selected="true" data-sort="catalog">
+                  <span>Orden del catálogo</span><span class="sort-check" aria-hidden="true">✓</span>
+                </button>
+                <button class="sort-option" type="button" role="option" aria-selected="false" data-sort="title">
+                  <span>Título A–Z</span><span class="sort-check" aria-hidden="true">✓</span>
+                </button>
+                <button class="sort-option" type="button" role="option" aria-selected="false" data-sort="author">
+                  <span>Autor A–Z</span><span class="sort-check" aria-hidden="true">✓</span>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="chips" id="filterChips" aria-label="Filtros por temática"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="catalog-heading">
+          <div><div class="kicker">Selección TABOR</div><h2>Catálogo de libros</h2></div>
+          <div class="results-meta" id="resultsMeta" aria-live="polite"></div>
+        </div>
+        <div class="books-grid" id="booksGrid"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <strong>No encontramos libros con esa búsqueda.</strong>
+          <p>Prueba con otro título, autor o temática, o consúltanos directamente.</p>
+          <div class="empty-actions"><button class="btn btn-ghost" type="button" id="emptyReset">Ver todos los libros</button><button class="btn btn-primary" type="button" id="emptyWhatsapp">Preguntar por WhatsApp</button></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section selection-cta">
+      <div class="container selection-cta-inner">
+        <div><div class="kicker light">¿No encuentras el título que buscas?</div><h2>Este catálogo es solo una selección.</h2><p id="selectionCtaText">Consúltanos: podemos revisar el stock general por ti.</p></div>
+        <a class="btn btn-light" id="selectionWhatsapp" href="#" target="_blank" rel="noopener">Consultar otro libro</a>
+      </div>
+    </section>
+
+    <section class="section contact-section" id="contacto">
+      <div class="container contact-grid">
+        <div class="contact-intro">
+          <div class="kicker">Librería TABOR</div>
+          <h2>¿Te interesa algún libro?</h2>
+          <p>Escríbenos indicando el título y te ayudaremos con tu consulta. También puedes compartir directamente la ficha de cualquier libro desde el catálogo.</p>
+        </div>
+        <div class="contact-cards" id="contactCards"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <img src="assets/tabor-logo.png" alt="TABOR">
+      <p><span id="footerSubtitle">Librería y artículos religiosos</span><br><span id="footerUpdate"></span></p>
+      <button class="btn btn-ghost footer-share" type="button" id="footerShareBtn">Compartir catálogo</button>
+    </div>
+  </footer>
+
+  <a class="floating-whatsapp" id="floatingWhatsapp" href="#" target="_blank" rel="noopener" aria-label="Consultar por WhatsApp"><span>WA</span><b>WhatsApp</b></a>
+
+  <div class="modal-backdrop" id="bookModal" hidden>
+    <section class="book-modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" id="modalClose" type="button" aria-label="Cerrar">×</button>
+      <div class="modal-cover-wrap"><img id="modalCover" src="assets/cover-fallback.svg" alt=""></div>
+      <div class="modal-content">
+        <div class="modal-topline"><span id="modalNumber"></span><span id="modalCategory"></span></div>
+        <h2 id="modalTitle"></h2>
+        <div class="modal-author" id="modalAuthor"></div>
+        <p id="modalDescription"></p>
+        <div class="modal-actions">
+          <a class="btn btn-primary" id="modalWhatsapp" href="#" target="_blank" rel="noopener">Consultar por WhatsApp</a>
+          <a class="btn btn-ghost" id="modalEmail" href="#">Consultar por email</a>
+          <button class="btn btn-ghost" id="modalShare" type="button">Compartir este libro</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+<rect width="600" height="900" fill="#eaf3f7"/><rect x="42" y="42" width="516" height="816" rx="18" fill="#f8fbfc" stroke="#c7d8e1" stroke-width="3"/>
+<text x="300" y="395" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="56" fill="#143f5b">TABOR</text>
+<text x="300" y="455" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#64727c">Portada no disponible</text>
+<path d="M215 545h170" stroke="#2e799f" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,570 @@
+{
+  "meta": {
+    "title": "CATÁLOGO GENERAL",
+    "subtitle": "LIBRERÍA Y ARTÍCULOS RELIGIOSOS",
+    "updated": "Octubre 2026",
+    "selectionNote": "Este catálogo recoge una selección de títulos de nuestro stock general. Si buscas otro libro, consúltanos."
+  },
+  "contact": {
+    "name": "TABOR",
+    "address": "Calle Bellas Artes 300, Torres de San Borja",
+    "email": "taborlibreria@gmail.com",
+    "whatsapp": "51989192214",
+    "whatsappDisplay": "989-192214",
+    "phone": "4692165"
+  },
+  "books": [
+    {
+      "id": "ahora-comienzo",
+      "title": "Ahora comienzo",
+      "author": "JESÚS URTEAGA",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Meditaciones breves para recomenzar la vida cristiana cada día. Jesús Urteaga invita a no instalarse en el desaliento y a renovar, con fe y decisión, el propósito de acercarse a Dios en las circunstancias ordinarias.",
+      "cover": "covers/ahora-comienzo.jpg"
+    },
+    {
+      "id": "al-hilo-de-un-pontificado",
+      "title": "Al hilo de un pontificado",
+      "author": "RAMIRO PELLITERO",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Un recorrido por grandes temas del pontificado de Benedicto XVI. Ramiro Pellitero presenta claves para comprender su magisterio sobre fe, razón, Iglesia, cultura y vida cristiana, acercando su pensamiento al lector de forma ordenada y accesible.",
+      "cover": "covers/al-hilo-de-un-pontificado.jpg"
+    },
+    {
+      "id": "al-menos-tu-amame",
+      "title": "Al menos tú ámame",
+      "author": "MANUEL VARGAS CANO DE SANTAYANA",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Una invitación a redescubrir la espiritualidad del Corazón de Jesús en el mundo de hoy. El autor propone una relación personal con Cristo centrada en su amor, su misericordia y la respuesta concreta del creyente.",
+      "cover": "covers/al-menos-tu-amame.jpg"
+    },
+    {
+      "id": "alli-estabas-tu",
+      "title": "Allí estabas tú",
+      "author": "JESÚS MARTÍNEZ GARCÍA",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Meditación sobre la Pasión de Cristo que coloca al lector dentro de las escenas evangélicas. Una lectura para contemplar el amor de Jesús, reconocer la propia responsabilidad y convertir la Pasión en materia de oración personal.",
+      "cover": "covers/alli-estabas-tu.jpg"
+    },
+    {
+      "id": "atajos-del-silencio",
+      "title": "Atajos del silencio",
+      "author": "JULIÁN HERRANZ",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Reflexiones nacidas del silencio, la naturaleza y la experiencia de montaña. Julián Herranz propone pequeños “atajos” interiores para aprender a escuchar, contemplar y descubrir la presencia de Dios en la vida cotidiana.",
+      "cover": "covers/atajos-del-silencio.jpg"
+    },
+    {
+      "id": "atenerse-a-la-realidad",
+      "title": "Atenerse a la realidad",
+      "author": "JOSÉ MIGUEL PERO-SANZ",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Diez meditaciones sobre rasgos esenciales de la existencia cristiana adulta. José Miguel Pero-Sanz invita a vivir la fe con realismo, responsabilidad y coherencia, especialmente en el trabajo, las relaciones y las decisiones de cada día.",
+      "cover": "covers/atenerse-a-la-realidad.jpg"
+    },
+    {
+      "id": "biblia-de-jerusalen",
+      "title": "Biblia de Jerusalén",
+      "author": "ED. DESCLÉE DE BROUWER",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Una de las traducciones bíblicas de referencia en lengua española. Ofrece introducciones, notas y ayudas de estudio que sitúan los textos en su contexto histórico, literario y teológico, facilitando una lectura profunda de la Sagrada Escritura.",
+      "cover": "covers/biblia-de-jerusalen.jpg"
+    },
+    {
+      "id": "biblia-para-jovenes",
+      "title": "Biblia para jóvenes",
+      "author": "EDICIONES SAN PABLO",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Edición pensada para acercar la Biblia a lectores jóvenes, con apoyos que ayudan a comprender el texto, relacionarlo con la vida diaria y descubrir el hilo central de la historia de la salvación.",
+      "cover": "covers/biblia-para-jovenes.jpg"
+    },
+    {
+      "id": "camino",
+      "title": "Camino",
+      "author": "SAN JOSEMARÍA ESCRIVÁ DE BALAGUER",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Clásico de espiritualidad formado por breves puntos de meditación. Invita a buscar a Dios en la vida ordinaria, crecer en vida interior, santificar el trabajo y vivir con sentido apostólico las relaciones y responsabilidades de cada día.",
+      "cover": "covers/camino.jpg"
+    },
+    {
+      "id": "catecismo-de-la-iglesia-catolica",
+      "title": "Catecismo de la Iglesia Católica",
+      "author": "IGLESIA CATÓLICA · EPICONSA",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Síntesis oficial de la fe católica estructurada en torno al Credo, los sacramentos, la vida moral y la oración. Una obra de consulta para profundizar en la doctrina y comprender de manera orgánica las enseñanzas de la Iglesia.",
+      "cover": "covers/catecismo-de-la-iglesia-catolica.jpg"
+    },
+    {
+      "id": "corrosion",
+      "title": "Corrosión",
+      "author": "PETER K. A. TURKSON · VITTORIO V. ALBERTI",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Diálogo sobre la corrupción y sus raíces humanas, sociales y espirituales. Los autores analizan cómo este fenómeno deteriora instituciones y conciencias, y proponen recuperar responsabilidad, ética y servicio al bien común.",
+      "cover": "covers/corrosion.jpg"
+    },
+    {
+      "id": "christus-vivit",
+      "title": "Christus vivit",
+      "author": "PAPA FRANCISCO",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Exhortación apostólica del papa Francisco dirigida especialmente a los jóvenes y a todo el Pueblo de Dios. Habla de Cristo vivo, vocación, discernimiento, acompañamiento, santidad y compromiso en la Iglesia y en el mundo.",
+      "cover": "covers/christus-vivit.jpg"
+    },
+    {
+      "id": "don-y-misterio",
+      "title": "Don y misterio",
+      "author": "SAN JUAN PABLO II",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Memoria personal de san Juan Pablo II sobre su vocación sacerdotal, escrita al cumplirse cincuenta años de su ordenación. Recorre personas, lugares y acontecimientos que marcaron su camino y muestra el sacerdocio como don y misterio.",
+      "cover": "covers/don-y-misterio.jpg"
+    },
+    {
+      "id": "el-arte-de-aprovechar-nuestras-faltas",
+      "title": "El arte de aprovechar nuestras faltas",
+      "author": "JOSEPH TISSOT",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Un clásico espiritual que enseña a convertir errores, caídas y debilidades en ocasiones de humildad, confianza y crecimiento. Joseph Tissot subraya la misericordia de Dios y la posibilidad de recomenzar sin desánimo.",
+      "cover": "covers/el-arte-de-aprovechar-nuestras-faltas.jpg"
+    },
+    {
+      "id": "el-camino-de-las-estrellas",
+      "title": "El camino de las estrellas",
+      "author": "JOSÉ LUIS OLAIZOLA",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Novela histórica que recrea la vida del apóstol Santiago y el origen de la tradición jacobea. José Luis Olaizola combina aventura y contexto cristiano para acercar al lector a los primeros pasos del Camino de Santiago.",
+      "cover": "covers/el-camino-de-las-estrellas.jpg"
+    },
+    {
+      "id": "el-cielo-contra-el-infierno-miguel-y-lucifer",
+      "title": "El cielo contra el infierno: Miguel y Lucifer",
+      "author": "JESÚS MARÍA SILVA CASTIGNANI",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Relato simbólico sobre la creación de los ángeles, la rebelión de Lucifer y la lucha entre el bien y el mal. Una narración de inspiración cristiana que recorre el conflicto espiritual desde sus orígenes hasta la historia humana.",
+      "cover": "covers/el-cielo-contra-el-infierno-miguel-y-lucifer.jpg"
+    },
+    {
+      "id": "el-elogio-de-la-conciencia",
+      "title": "El elogio de la conciencia",
+      "author": "BENEDICTO XVI",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Selección de textos de Benedicto XVI sobre conciencia, verdad y libertad. Invita a superar una visión subjetivista de la conciencia y a comprenderla como lugar de escucha, responsabilidad moral y búsqueda sincera de la verdad.",
+      "cover": "covers/el-elogio-de-la-conciencia.jpg"
+    },
+    {
+      "id": "el-mensaje-de-fatima",
+      "title": "El mensaje de Fátima",
+      "author": "FEDERICO PRIETO CELI",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Recorrido por la historia y el contenido espiritual de las apariciones de Fátima. Federico Prieto Celi ofrece contexto, protagonistas y claves para comprender el mensaje, incluyendo los acontecimientos vinculados a san Juan Pablo II.",
+      "cover": "covers/el-mensaje-de-fatima.jpg"
+    },
+    {
+      "id": "forja",
+      "title": "Forja",
+      "author": "SAN JOSEMARÍA ESCRIVÁ DE BALAGUER",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Libro de puntos de meditación de san Josemaría centrado en la vida interior y la transformación personal. Sus textos animan a dejarse moldear por el amor de Dios y a convertir trabajo, lucha y apostolado en camino de santidad.",
+      "cover": "covers/forja.jpg"
+    },
+    {
+      "id": "jesus-esta-aqui",
+      "title": "Jesús está aquí",
+      "author": "SALVADOR MUÑOZ IGLESIAS",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Salvador Muñoz Iglesias conduce al lector por los lugares de la vida de Jesús y, desde allí, hacia la oración ante su presencia eucarística. Una obra que une cultura bíblica, Tierra Santa y piedad centrada en el sagrario.",
+      "cover": "covers/jesus-esta-aqui.jpg"
+    },
+    {
+      "id": "biblia-de-jerusalen-tapa-flexible",
+      "title": "Biblia de Jerusalén · tapa flexible",
+      "author": "ED. DESCLÉE DE BROUWER",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Edición práctica de la Biblia de Jerusalén en formato flexible. Mantiene la traducción, introducciones y notas características de esta versión, pensadas para situar los textos en su contexto histórico, literario y teológico.",
+      "cover": "covers/biblia-de-jerusalen-tapa-flexible.jpg"
+    },
+    {
+      "id": "magnifica-humanitas",
+      "title": "Magnifica Humanitas",
+      "author": "LEÓN XIV",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Encíclica de León XIV sobre la dignidad de la persona en la era de la inteligencia artificial. Examina verdad, creatividad, trabajo, desinformación, vigilancia y uso bélico de la tecnología, proponiendo criterios éticos para mantener el progreso al servicio del ser humano.",
+      "cover": "covers/magnifica-humanitas.jpg"
+    },
+    {
+      "id": "orar-pensamiento-espiritual",
+      "title": "Orar. Pensamiento espiritual",
+      "author": "SAN JUAN PABLO II",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Selección de textos que recoge claves del pensamiento espiritual de san Juan Pablo II. Propone un viaje interior para crecer en oración, amor a Dios, devoción mariana, caridad, paz y esperanza en las circunstancias concretas de la vida.",
+      "cover": "covers/orar-pensamiento-espiritual.jpg"
+    },
+    {
+      "id": "pedagogia-del-dolor",
+      "title": "Pedagogía del dolor",
+      "author": "ISABEL ORELLANA",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "A partir de una experiencia personal de sufrimiento tras un grave accidente, Isabel Orellana reflexiona sobre el sentido del dolor. Combina experiencia, profundidad espiritual y orientación práctica para afrontar el sufrimiento sin negar su dureza.",
+      "cover": "covers/pedagogia-del-dolor.jpg"
+    },
+    {
+      "id": "un-lugar-para-la-esperanza",
+      "title": "Un lugar para la esperanza",
+      "author": "CAMRON WRIGHT",
+      "category": "ESPIRITUALIDAD Y VIDA CRISTIANA",
+      "description": "Novela ambientada en el gran vertedero de Stung Meanchey, Camboya. La historia de Sang Ly, su familia y una inesperada maestra muestra el poder transformador de la alfabetización, la perseverancia y la esperanza incluso en circunstancias extremas.",
+      "cover": "covers/un-lugar-para-la-esperanza.jpg"
+    },
+    {
+      "id": "25-cuestiones-actuales-en-torno-a-la-fe",
+      "title": "25 Cuestiones actuales en torno a la fe",
+      "author": "ALFONSO AGUILÓ",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Responde con lenguaje claro a preguntas actuales sobre Dios, la fe, el mal, la Iglesia y la relación entre razón y creencia. Una ayuda para jóvenes, padres y educadores que desean conversar sobre la fe con argumentos sencillos y razonados.",
+      "cover": "covers/25-cuestiones-actuales-en-torno-a-la-fe.jpg"
+    },
+    {
+      "id": "buenos-dias-princesa",
+      "title": "Buenos días, princesa",
+      "author": "SILVIA MARTÍNEZ-MARKUS",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Guía de educación, elegancia y buenos modales dirigida a chicas jóvenes. Propone criterios prácticos para desenvolverse con naturalidad en situaciones sociales, cuidar la presentación personal y crecer en seguridad, respeto y consideración hacia los demás.",
+      "cover": "covers/buenos-dias-princesa.jpg"
+    },
+    {
+      "id": "como-educar-a-tus-hijos",
+      "title": "Cómo educar a tus hijos",
+      "author": "FERNANDO COROMINAS",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Propuesta práctica de educación positiva y preventiva. Fernando Corominas explica cómo aprovechar las motivaciones y etapas de desarrollo de los hijos para formar hábitos, libertad y responsabilidad sin reducir la educación al premio y al castigo.",
+      "cover": "covers/como-educar-a-tus-hijos.jpg"
+    },
+    {
+      "id": "matrimonio-y-santidad-como-es-posible",
+      "title": "Matrimonio y santidad: ¿cómo es posible?",
+      "author": "ANTONIO VÁZQUEZ",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Reflexión sobre el matrimonio como auténtico camino de santidad. Presenta la vida conyugal, la entrega mutua y las tareas familiares como lugar de encuentro con Dios y de crecimiento cristiano en medio de la vida ordinaria.",
+      "cover": "covers/matrimonio-y-santidad-como-es-posible.jpg"
+    },
+    {
+      "id": "como-tratar-a-los-adolescentes",
+      "title": "Cómo tratar a los adolescentes",
+      "author": "JAMES B. STENSON",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Guía para padres que desean acompañar mejor la adolescencia. James B. Stenson ofrece criterios concretos sobre autoridad, comunicación, carácter, amistades y responsabilidad para afrontar con serenidad una etapa decisiva de crecimiento.",
+      "cover": "covers/como-tratar-a-los-adolescentes.jpg"
+    },
+    {
+      "id": "como-triunfan-los-ninos",
+      "title": "Cómo triunfan los niños",
+      "author": "PAUL TOUGH",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Paul Tough explora por qué el éxito infantil depende también del carácter. Perseverancia, autocontrol, curiosidad, confianza y capacidad de superar dificultades aparecen como habilidades decisivas que pueden cultivarse en la educación.",
+      "cover": "covers/como-triunfan-los-ninos.jpg"
+    },
+    {
+      "id": "corazon-de-padre",
+      "title": "Corazón de padre",
+      "author": "OSVALDO POLI",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Una reflexión sobre la aportación específica del padre en la educación de los hijos. Osvaldo Poli analiza la autoridad, la presencia, los límites y la complementariedad con la madre, reivindicando una paternidad cercana y responsable.",
+      "cover": "covers/corazon-de-padre.jpg"
+    },
+    {
+      "id": "del-cuerpo-a-la-persona",
+      "title": "Del cuerpo a la persona",
+      "author": "LEDA GALLI",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Una introducción clara a la corporalidad, la afectividad y la sexualidad humanas. Leda Galli parte de la biología y de una visión integral de la persona para ofrecer criterios educativos sobre amor, identidad y respeto del cuerpo.",
+      "cover": "covers/del-cuerpo-a-la-persona.jpg"
+    },
+    {
+      "id": "educar-en-libertad-y-responsabilidad",
+      "title": "Educar en libertad y responsabilidad",
+      "author": "PABLO GARRIDO GIL",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Guía para educar personas libres y responsables. Pablo Garrido Gil ofrece criterios y planes de acción para que los padres acompañen el crecimiento de sus hijos, ajustando exigencia, autonomía y confianza a cada etapa evolutiva.",
+      "cover": "covers/educar-en-libertad-y-responsabilidad.jpg"
+    },
+    {
+      "id": "educar-hoy",
+      "title": "Educar hoy",
+      "author": "FERNANDO COROMINAS",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Fernando Corominas presenta claves de educación familiar adaptadas a los retos contemporáneos. Explica la importancia de los períodos sensibles, los hábitos y la acción de los padres para formar virtudes y aprovechar las mejores etapas del aprendizaje.",
+      "cover": "covers/educar-hoy.jpg"
+    },
+    {
+      "id": "el-arte-de-ensenar-a-amar",
+      "title": "El arte de enseñar a amar",
+      "author": "JUAN JOSÉ JAVALOYES",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Guía de educación afectiva para padres y educadores. Juan José Javaloyes propone enseñar a amar de manera gradual, clara y adecuada a la edad, integrando afectividad, sexualidad, libertad, respeto y sentido de la entrega.",
+      "cover": "covers/el-arte-de-ensenar-a-amar.jpg"
+    },
+    {
+      "id": "el-eclipse-del-padre",
+      "title": "El eclipse del padre",
+      "author": "PAUL JOSEF CORDES",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Paul Josef Cordes analiza el debilitamiento de la figura paterna en la cultura contemporánea y sus consecuencias familiares. Una reflexión sobre identidad, responsabilidad y presencia del padre en la formación afectiva y moral de los hijos.",
+      "cover": "covers/el-eclipse-del-padre.jpg"
+    },
+    {
+      "id": "el-nino-mas-feliz",
+      "title": "El niño más feliz",
+      "author": "HARVEY KARP",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Harvey Karp ofrece estrategias para comprender el comportamiento de niños pequeños y manejar rabietas, límites y conflictos cotidianos. Un enfoque práctico para fortalecer la cooperación, la seguridad y la relación entre padres e hijos.",
+      "cover": "covers/el-nino-mas-feliz.jpg"
+    },
+    {
+      "id": "el-valor-de-la-espera",
+      "title": "El valor de la espera",
+      "author": "JOKIN DE IRALA",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Jokin de Irala reflexiona sobre libertad, afectividad y sexualidad en el noviazgo. Plantea la espera como una decisión positiva que ayuda a distinguir deseo y amor, conocerse mejor y construir un proyecto de pareja con mayor libertad.",
+      "cover": "covers/el-valor-de-la-espera.jpg"
+    },
+    {
+      "id": "esos-ninos-especiales",
+      "title": "Esos “niños especiales”",
+      "author": "JEAN TOULAT",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Jean Toulat defiende la dignidad y la riqueza humana de los niños con síndrome de Down. A través de historias y reflexión, invita a mirar sus capacidades, cuestionar prejuicios y valorar una sociedad que acoge a las personas más vulnerables.",
+      "cover": "covers/esos-ninos-especiales.jpg"
+    },
+    {
+      "id": "la-redencion-del-corazon",
+      "title": "La redención del corazón",
+      "author": "SAN JUAN PABLO II",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Segundo volumen de la Teología del Cuerpo de san Juan Pablo II. Reúne enseñanzas sobre pureza, deseo y redención del corazón, subrayando que la moralidad no se limita al acto exterior, sino que nace de la actitud interior de la persona.",
+      "cover": "covers/la-redencion-del-corazon.jpg"
+    },
+    {
+      "id": "los-10-habitos-de-las-madres-felices",
+      "title": "Los 10 hábitos de las madres felices",
+      "author": "MEG MEEKER",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Meg Meeker propone diez hábitos concretos para ayudar a las madres a vivir con mayor equilibrio y alegría. Su enfoque busca aliviar la presión de la perfección y cuidar la salud física, emocional y relacional sin descuidar la vida familiar.",
+      "cover": "covers/los-10-habitos-de-las-madres-felices.jpg"
+    },
+    {
+      "id": "los-7-habitos-de-las-familias-altamente-efectivas",
+      "title": "Los 7 hábitos de las familias altamente efectivas",
+      "author": "STEPHEN R. COVEY",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Stephen R. Covey aplica sus conocidos principios de eficacia personal a la vida familiar. Comunicación, prioridades, propósito común y comprensión mutua se convierten en hábitos prácticos para fortalecer vínculos y construir un hogar más estable y satisfactorio.",
+      "cover": "covers/los-7-habitos-de-las-familias-altamente-efectivas.jpg"
+    },
+    {
+      "id": "tu-hija-de-12-anos",
+      "title": "Tu hija de 12 años",
+      "author": "CANDI DEL CUETO · PIEDAD GARCÍA",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Guía para padres de chicas que atraviesan la edad del cambio. Candi del Cueto y Piedad García explican comportamientos, intereses y situaciones frecuentes entre los 9 y 14 años, con consejos prácticos para acompañar su maduración con una mirada positiva.",
+      "cover": "covers/tu-hija-de-12-anos.jpg"
+    },
+    {
+      "id": "tu-hijo-de-6-a-7-anos",
+      "title": "Tu hijo de 6 a 7 años",
+      "author": "BLANCA JORDÁN DE URRÍES",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Blanca Jordán de Urríes aborda el desarrollo de los niños entre seis y siete años. Colegio, amigos, familia, estudio y cambios de conducta se convierten en ámbitos concretos para planificar una educación adecuada y preparar etapas posteriores.",
+      "cover": "covers/tu-hijo-de-6-a-7-anos.jpg"
+    },
+    {
+      "id": "tu-hijo-de-8-a-9-anos",
+      "title": "Tu hijo de 8 a 9 años",
+      "author": "JOSÉ ANTONIO ALCÁZAR · M.ª ÁNGELES LOSANTOS",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "José Antonio Alcázar y M.ª Ángeles Losantos analizan la etapa de los ocho y nueve años, sus pequeños cambios e inquietudes. Proponen un proyecto educativo claro, con ejemplos y sugerencias para formar libertad, responsabilidad, carácter y buenos hábitos.",
+      "cover": "covers/tu-hijo-de-8-a-9-anos.jpg"
+    },
+    {
+      "id": "tus-hijos-adolescentes",
+      "title": "Tus hijos adolescentes",
+      "author": "GERARDO CASTILLO CEBALLOS",
+      "category": "EDUCACIÓN Y FAMILIA",
+      "description": "Gerardo Castillo explica la adolescencia como una etapa de transición y oportunidad educativa. Comunicación, afectividad, madurez, responsabilidad y búsqueda de identidad se presentan con criterios para que padres e hijos afronten juntos sus cambios y desafíos.",
+      "cover": "covers/tus-hijos-adolescentes.jpg"
+    },
+    {
+      "id": "matrimonio-y-familia",
+      "title": "Matrimonio y familia",
+      "author": "JORGE MIRAS · JUAN IGNACIO BAÑARES",
+      "category": "MATRIMONIO Y FAMILIA",
+      "description": "Manual de iniciación teológica que presenta los fundamentos cristianos del matrimonio y la familia. Jorge Miras y Juan Ignacio Bañares integran Revelación, Magisterio y visión de la persona para explicar vínculo conyugal, sacramento, fecundidad y misión familiar.",
+      "cover": "covers/matrimonio-y-familia.jpg"
+    },
+    {
+      "id": "al-volante-de-un-santo",
+      "title": "Al volante de un santo",
+      "author": "JAVIER COTELO",
+      "category": "TESTIMONIO",
+      "description": "Javier Cotelo recuerda los años en que condujo a san Josemaría. Anécdotas cotidianas, escenas familiares y recuerdos personales muestran de cerca su humanidad, su sentido del humor y su manera de vivir la fe en lo ordinario.",
+      "cover": "covers/al-volante-de-un-santo.jpg"
+    },
+    {
+      "id": "cristianos-en-tierras-del-islam",
+      "title": "Cristianos en tierras del islam",
+      "author": "CLAUDE LORIEUX",
+      "category": "TESTIMONIO",
+      "description": "Testimonio sobre la vida de comunidades cristianas en países de mayoría musulmana. Claude Lorieux acerca sus dificultades, esperanzas y formas de convivencia, ayudando a comprender una realidad religiosa y humana poco conocida.",
+      "cover": "covers/cristianos-en-tierras-del-islam.jpg"
+    },
+    {
+      "id": "cristianos-en-peligro",
+      "title": "Cristianos en peligro",
+      "author": "MARC FROMAGER",
+      "category": "TESTIMONIO",
+      "description": "Un recorrido por comunidades cristianas que viven situaciones de persecución, presión o discriminación. Marc Fromager combina experiencias y contexto para mostrar su vulnerabilidad, su perseverancia y la importancia de la libertad religiosa.",
+      "cover": "covers/cristianos-en-peligro.jpg"
+    },
+    {
+      "id": "cuando-la-vida-se-alarga",
+      "title": "Cuando la vida se alarga",
+      "author": "JOSÉ ORLANDIS",
+      "category": "TESTIMONIO",
+      "description": "Reflexión cristiana sobre la etapa de la vejez y el alargamiento de la vida. José Orlandis invita a vivir esos años no como un tiempo residual, sino como ocasión de crecimiento interior, servicio, gratitud y preparación esperanzada.",
+      "cover": "covers/cuando-la-vida-se-alarga.jpg"
+    },
+    {
+      "id": "desde-lo-mas-hondo-de-nuestros-corazones",
+      "title": "Desde lo más hondo de nuestros corazones",
+      "author": "CARD. ROBERT SARAH · JOSEPH RATZINGER",
+      "category": "TESTIMONIO",
+      "description": "El cardenal Robert Sarah y Joseph Ratzinger reflexionan sobre el sacerdocio católico y el celibato. Una obra centrada en el sentido espiritual de la vocación sacerdotal y en cuestiones decisivas para la vida y el futuro de la Iglesia.",
+      "cover": "covers/desde-lo-mas-hondo-de-nuestros-corazones.jpg"
+    },
+    {
+      "id": "dias-de-espera-en-guerra",
+      "title": "Días de espera en guerra",
+      "author": "JORDI MIRALBELL",
+      "category": "TESTIMONIO",
+      "description": "Relato de las semanas vividas en Barcelona durante la Guerra Civil española antes de la travesía de los Pirineos de san Josemaría y sus acompañantes. Una narración de incertidumbre, espera, amistad y confianza en circunstancias extremas.",
+      "cover": "covers/dias-de-espera-en-guerra.jpg"
+    },
+    {
+      "id": "el-mundo-es-mas-grande-ahora",
+      "title": "El mundo es más grande ahora",
+      "author": "EUNA LEE / LISA DICKEY",
+      "category": "TESTIMONIO",
+      "description": "Euna Lee narra su detención y cautiverio en Corea del Norte. La experiencia se convierte en una historia de miedo, fe, amor familiar, perdón y esperanza, contada desde la perspectiva de quien debió afrontar una situación límite.",
+      "cover": "covers/el-mundo-es-mas-grande-ahora.jpg"
+    },
+    {
+      "id": "el-paso-de-la-vida",
+      "title": "El paso de la vida",
+      "author": "FRANCISCO FERNÁNDEZ-CARVAJAL",
+      "category": "TESTIMONIO",
+      "description": "Una mirada cristiana al paso del tiempo y a la madurez. Francisco Fernández-Carvajal propone vivir los años acumulados como oportunidad para amar más, servir mejor y aprovechar la experiencia recibida, sin quedar atrapados en la nostalgia.",
+      "cover": "covers/el-paso-de-la-vida.jpg"
+    },
+    {
+      "id": "emerito-rebobinando-a-ratzinger",
+      "title": "Emérito. Rebobinando a Ratzinger",
+      "author": "ÁLVARO SÁNCHEZ LEÓN",
+      "category": "TESTIMONIO",
+      "description": "Retrato periodístico de Benedicto XVI construido con entrevistas, crónicas, testimonios y escenas de su vida pública y privada. Álvaro Sánchez León propone volver sobre Joseph Ratzinger para comprender mejor al hombre, al teólogo y al papa emérito.",
+      "cover": "covers/emerito-rebobinando-a-ratzinger.jpg"
+    },
+    {
+      "id": "el-tiempo-en-un-hilo",
+      "title": "El tiempo en un hilo",
+      "author": "MARUJA MORAGAS",
+      "category": "TESTIMONIO",
+      "description": "Maruja Moragas recorre momentos decisivos de su vida —fe, matrimonio, salud y familia— para mostrar cómo las crisis pueden transformarse en aprendizaje. Un testimonio personal escrito desde la esperanza, la gratitud y la confianza.",
+      "cover": "covers/el-tiempo-en-un-hilo.jpg"
+    },
+    {
+      "id": "entre-la-nada-y-la-vida",
+      "title": "Entre la nada y la vida",
+      "author": "GLORIA CRUZ MORENO",
+      "category": "TESTIMONIO",
+      "description": "Testimonio de una búsqueda personal entre escepticismo, preguntas existenciales y fe. Gloria Cruz Moreno relata su itinerario con un tono cercano, mostrando cómo la experiencia, el razonamiento y el encuentro con otros pueden abrir nuevas respuestas.",
+      "cover": "covers/entre-la-nada-y-la-vida.jpg"
+    },
+    {
+      "id": "lo-primero-es-el-amor",
+      "title": "Lo primero es el amor",
+      "author": "SCOTT HAHN",
+      "category": "TESTIMONIO",
+      "description": "Scott Hahn explica verdades centrales de la fe católica desde una mirada bíblica y familiar. Una introducción atractiva a la lógica interna del cristianismo y al amor de Dios como punto de partida para comprender doctrina, sacramentos y vida cristiana.",
+      "cover": "covers/lo-primero-es-el-amor.jpg"
+    },
+    {
+      "id": "salmones-hormonas-y-pantallas",
+      "title": "Salmones, hormonas y pantallas",
+      "author": "MIGUEL ÁNGEL MARTÍNEZ-GONZÁLEZ",
+      "category": "TESTIMONIO",
+      "description": "Desde la salud pública y la evidencia científica, Miguel Ángel Martínez-González analiza sexualidad, afectividad, hábitos digitales y presión cultural entre los jóvenes. Advierte sobre riesgos del consumo de pornografía y propone una visión integrada del amor y la salud.",
+      "cover": "covers/salmones-hormonas-y-pantallas.jpg"
+    },
+    {
+      "id": "san-juan-pablo-magno",
+      "title": "San Juan Pablo Magno",
+      "author": "JASON EVERT",
+      "category": "TESTIMONIO",
+      "description": "Jason Evert recorre la vida de san Juan Pablo II a través de cinco grandes amores: los jóvenes, el amor humano, la Eucaristía, la Virgen María y la Cruz. Incluye historias y enseñanzas que acercan su espiritualidad y su legado.",
+      "cover": "covers/san-juan-pablo-magno.jpg"
+    },
+    {
+      "id": "la-madre-teresa-su-vida-y-su-obra",
+      "title": "La Madre Teresa. Su vida y su obra",
+      "author": "EDWARD LE JOLY",
+      "category": "BIOGRAFÍAS DE SANTOS",
+      "description": "Biografía escrita por Edward Le Joly, estrecho colaborador y director espiritual de las Misioneras de la Caridad. Presenta la vida, la misión y el espíritu de la Madre Teresa, apoyándose en recuerdos, conversaciones, cartas y testimonios.",
+      "cover": "covers/la-madre-teresa-su-vida-y-su-obra.jpg"
+    },
+    {
+      "id": "la-vida-de-santa-teresa-de-jesus",
+      "title": "La Vida de Santa Teresa de Jesús",
+      "author": "MARCELLE AUCLAIR",
+      "category": "BIOGRAFÍAS DE SANTOS",
+      "description": "Biografía de santa Teresa de Jesús que combina documentación, claridad narrativa y cercanía. Marcelle Auclair acerca la personalidad, la obra y la experiencia espiritual de la santa de Ávila con un relato vivo y accesible.",
+      "cover": "covers/la-vida-de-santa-teresa-de-jesus.jpg"
+    },
+    {
+      "id": "mujeres-valientes",
+      "title": "Mujeres valientes",
+      "author": "ENRIQUE CASES",
+      "category": "BIOGRAFÍAS DE SANTOS",
+      "description": "Meditaciones sobre las mujeres que aparecen en los Evangelios y sus encuentros con Jesús. Enrique Cases se detiene en su fe, valentía, afectividad y capacidad de amar, y culmina con una reflexión sobre María, José y la complementariedad entre hombre y mujer.",
+      "cover": "covers/mujeres-valientes.jpg"
+    },
+    {
+      "id": "el-secreto-de-una-vida-lograda",
+      "title": "El secreto de una vida lograda",
+      "author": "ALFONSO LÓPEZ QUINTÁS",
+      "category": "EDUCACIÓN Y NOVIAZGO",
+      "description": "Alfonso López Quintás presenta un método para descubrir valores a través del encuentro y la relación personal. Reflexiona sobre amor, noviazgo, sexualidad y familia desde una visión que vincula libertad, sentido y crecimiento humano.",
+      "cover": "covers/el-secreto-de-una-vida-lograda.jpg"
+    },
+    {
+      "id": "huellas-de-jesus",
+      "title": "Huellas de Jesús",
+      "author": "SANTIAGO QUEMADA",
+      "category": "HISTORIA",
+      "description": "Guía de Tierra Santa siguiendo la vida de Jesús narrada por los Evangelios. Santiago Quemada describe paisajes, costumbres y lugares santos, ayudando al lector a imaginar mejor el contexto histórico y geográfico de los episodios evangélicos.",
+      "cover": "covers/huellas-de-jesus.jpg"
+    },
+    {
+      "id": "el-profeta",
+      "title": "El profeta",
+      "author": "JOSÉ MARÍA ZAVALA",
+      "category": "NOVELA PARA ADULTOS",
+      "description": "Novela histórica sobre Jesús de Nazaret narrada desde la mirada de Lucio Fedro, un oficial romano encargado de seguir sus pasos. José María Zavala combina ficción, investigación y ambiente histórico para recrear el impacto de su figura.",
+      "cover": "covers/el-profeta.jpg"
+    },
+    {
+      "id": "la-calidez-humana",
+      "title": "La calidez humana",
+      "author": "MIGUEL ÁNGEL MARTÍ",
+      "category": "SOCIABILIDAD",
+      "description": "Miguel Ángel Martí reflexiona sobre la dimensión afectiva de la convivencia. Frente a una comunicación cada vez más técnica y virtual, reivindica la presencia, la mirada, el acompañamiento y la cordialidad como elementos irremplazables de la relación humana.",
+      "cover": "covers/la-calidez-humana.jpg"
+    }
+  ]
+}
